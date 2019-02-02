@@ -20,7 +20,7 @@ Dicas para uso rápido do Phonegap ou Cordova
 -   Instale o Git https://git-scm.com/downloads
 -   Configure as variáveis globais do git pelo CMD
 
-```
+```bash
 $ git config --global user.name "Seu Nome"
 $ git config --global user.email seuemail@email.com
 ```
