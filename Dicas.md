@@ -19,25 +19,31 @@ Dicas para uso rápido do Phonegap ou Cordova
 -   Instale o Node.js https://nodejs.org/en/
 -   Instale o Git https://git-scm.com/downloads
 -   Configure as variáveis globais do git pelo CMD
-    - $git config --global user.name "Seu Nome"
-    - $git config --global user.email seuemail@email.com
+
+				$ git config --global user.name "Seu Nome"
+				$ git config --global user.email seuemail@email.com
 
 
 - Baixe para Windows: https://gitforwindows.org/
 
 
 ## 2. Fluxo de Trabalho
+
 **Criando um novo repositório**
+
 - Crie uma pasta e dentro dela execute:
-    - $git init
+
+        $ git init
 
 **Obtenha um repositório**
+
 - crie uma cópia de trabalho em um repositório local executando:
-    - $git clone /caminho/para/o/repositório
+
+        $ git clone /caminho/para/o/repositório
 
 **Trabalhando com git**
 
-- Seus repositórios locais consistem em três árvores mantidas pelo git. A primeira delas é sua "Working Directory" que contém os arquivos vigentes. A segunda "Index" que funciona como uma área temportária e finalmente a "Head" que aponta para o último commit (confirmação) que você fez.
+- Seus repositórios locais consistem em três árvores mantidas pelo git. A primeira delas é sua "Working Directory" que contém os arquivos vigentes. A segunda "Index" que funciona como uma área temportária e finalmente a `Head` que aponta para o último commit (confirmação) que você fez.
 
     - **Adicionar & Confirmar**
 
@@ -52,5 +58,7 @@ Dicas para uso rápido do Phonegap ou Cordova
         - $git push origin master
 
 ## 3. Links
-- http://rogerdudler.github.io/git-guide/index.pt_BR.html
-- https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+
+- [git-guide](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/]()https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+
