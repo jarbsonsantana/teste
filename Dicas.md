@@ -7,7 +7,7 @@ Dicas para uso rápido do Phonegap ou Cordova
 
 # Sumário
 1. [Istalação](#1-instalação)
-2. [Fluxo de Trabalho](#2-fluxo de trabalho)
+2. [Fluxo de Trabalho](#2-fluxo-de-trabalho)
 3. [Links](#3-links)
 
 ## 1. Instalação
