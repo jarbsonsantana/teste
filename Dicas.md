@@ -33,7 +33,7 @@ Dicas para uso rápido do Phonegap ou Cordova
 
 - Crie uma pasta e dentro dela execute:
 
-		$ git init
+- `$ git init`
 
 **Obtenha um repositório**
 
