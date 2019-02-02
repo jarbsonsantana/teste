@@ -1,7 +1,3 @@
-markdown: kramdown
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/52163816-f2cab480-26ce-11e9-9603-3ff6c6ed3e13.png">
 </p>
