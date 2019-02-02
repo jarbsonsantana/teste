@@ -6,11 +6,11 @@
 Dicas para uso rápido do Phonegap ou Cordova
 
 # Sumário
-1. [Istalação](#1-instalação)
-2. [Fluxo de Trabalho](#2-fluxo-de-trabalho)
-3. [Links](#3-links)
+. [Istalação](#instalação)
+. [Fluxo de Trabalho](#fluxo-de-trabalho)
+. [Links](#links)
 
-# 1. Instalação
+# Instalação
 -   Instale o Node.js https://nodejs.org/en/
 -   Instale o Git https://git-scm.com/downloads
 -   Configure as variáveis globais do git pelo CMD
@@ -33,7 +33,7 @@ Dicas para uso rápido do Phonegap ou Cordova
     -   Crie um nova variável de ambiente chamada **JAVA_HOME** e coloque o caminho para o JDK (*C:\Program Files\Java\jdk1.8.0_05*)
     -   Crie uma nova variável de ambiente chamada **ANT_HOME** e coloque o caminho da pasta ANT que você descompactou(*caso necessário*).
 
-# 2. Fluxo de Trabalho
+# Fluxo de Trabalho
 
 ## NPM
 É importante manter o NPM atualizado
