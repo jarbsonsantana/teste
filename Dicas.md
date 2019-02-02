@@ -6,9 +6,9 @@
 Dicas para uso rápido do Phonegap ou Cordova
 
 # Sumário
-. [Istalação](#instalação)
-. [Fluxo de Trabalho](#fluxo-de-trabalho)
-. [Links](#links)
+- [Istalação](#instalação)
+- [Fluxo de Trabalho](#fluxo-de-trabalho)
+- [Links](#links)
 
 # Instalação
 -   Instale o Node.js https://nodejs.org/en/
