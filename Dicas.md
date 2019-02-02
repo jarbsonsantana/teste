@@ -26,7 +26,7 @@ Dicas para uso rápido do Phonegap ou Cordova
     $npm install -g phonegap
 ```
 
--   **Configure o Path do Windows**
+## Configure o Path do Windows
     -   Adicione o path \sdk\tools e \sdk\platform-tools do Android Studio (ADT)
     -   Crie um nova variável de ambiente chamada **JAVA_HOME** e coloque o caminho para o JDK (*C:\Program Files\Java\jdk1.8.0_05*)
     -   Crie uma nova variável de ambiente chamada **ANT_HOME** e coloque o caminho da pasta ANT que você descompactou(*caso necessário*).
