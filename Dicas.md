@@ -67,3 +67,8 @@ $ git config --global user.email seuemail@email.com
 - [git-guide](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/]()https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
+
+
+
+
+<img src="https://user-images.githubusercontent.com/3603111/52164690-09273f00-26d4-11e9-94bb-e690773591f5.png" width="48">
