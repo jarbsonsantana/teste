@@ -63,3 +63,23 @@ $ git config --global user.email seuemail@email.com
 - [git-guide](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/]()https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
+```c
+#include <stdio.h>
+int main()
+{
+    int firstNumber, secondNumber, sumOfTwoNumbers;
+    
+    printf("Enter two integers: ");
+
+    // Two integers entered by user is stored using scanf() function
+    scanf("%d %d", &firstNumber, &secondNumber);
+
+    // sum of two numbers in stored in variable sumOfTwoNumbers
+    sumOfTwoNumbers = firstNumber + secondNumber;
+
+    // Displays sum      
+    printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
+
+    return 0;
+}
+```
