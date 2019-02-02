@@ -31,6 +31,9 @@ Dicas para uso rápido do Phonegap ou Cordova
     -   Crie um nova variável de ambiente chamada **JAVA_HOME** e coloque o caminho para o JDK (*C:\Program Files\Java\jdk1.8.0_05*)
     -   Crie uma nova variável de ambiente chamada **ANT_HOME** e coloque o caminho da pasta ANT que você descompactou(*caso necessário*).
 
+### Observaçao
+sdfsdf
+
 ## 2. Fluxo de Trabalho
 
 - **NPM**
