@@ -67,4 +67,4 @@ $ git config --global user.email seuemail@email.com
 
 
 
-<img src="https://user-images.githubusercontent.com/3603111/52164690-09273f00-26d4-11e9-94bb-e690773591f5.png" width="100%">
+<img src="https://user-images.githubusercontent.com/3603111/52164690-09273f00-26d4-11e9-94bb-e690773591f5.png" width="50%">
